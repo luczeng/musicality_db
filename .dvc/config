@@ -1,0 +1,5 @@
+[core]
+    remote = infomaniak
+['remote "infomaniak"']
+    url = s3://default/musicality/
+    endpointurl = https://s3.swiss-backup02.infomaniak.com

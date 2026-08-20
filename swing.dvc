@@ -1,0 +1,6 @@
+outs:
+- md5: c73de6e49227a4a9e20225b28a94bc3b.dir
+  size: 121276486
+  nfiles: 56
+  hash: md5
+  path: swing

@@ -1,0 +1,6 @@
+outs:
+- md5: 32d457c141fe6260a395549c32878b37.dir
+  size: 1928453140
+  nfiles: 3509
+  hash: md5
+  path: ballroom
