@@ -1,0 +1,6 @@
+outs:
+- md5: 042eaffb1920f215beebbcfe86dcb0fa.dir
+  size: 4274200166
+  nfiles: 810
+  hash: md5
+  path: rwc_popular
