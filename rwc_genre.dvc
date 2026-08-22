@@ -1,0 +1,6 @@
+outs:
+- md5: 6e8986bf6fea8d899bef05350e54f3c4.dir
+  size: 4429372349
+  nfiles: 307
+  hash: md5
+  path: rwc_genre
