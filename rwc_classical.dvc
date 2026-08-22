@@ -1,0 +1,6 @@
+outs:
+- md5: 35304ffb49cbc6741f8d5900a70c0c56.dir
+  size: 3463440191
+  nfiles: 282
+  hash: md5
+  path: rwc_classical
