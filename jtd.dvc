@@ -1,0 +1,6 @@
+outs:
+- md5: 3da5793dfa0807386f58d9679a18784c.dir
+  size: 28147808543
+  nfiles: 11649
+  hash: md5
+  path: jtd
