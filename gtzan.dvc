@@ -1,6 +1,5 @@
 outs:
-- md5: bfac309f8efabd0ef1f31fca19876337.dir
-  size: 1322937880
+- md5: 857ee192976b6912c5942ded906b31e2.dir
   nfiles: 3994
   hash: md5
   path: gtzan

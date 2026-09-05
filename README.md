@@ -8,6 +8,7 @@ The `merge` dataset combines tracks from `ballroom`, `rwc_classical`, `rwc_genre
 
 | version | beat train | beat val | beat_phase_binary train | beat_phase_binary val |
 |---------|-----------:|---------:|-------------------------:|-----------------------:|
+| v8.0.0 | **2056** | **318** | **1792** | **262** |
 | v7.0.0 | **2001** | **304** | **1738** | **249** |
 | v6.0.0  | **809** | **200** | **629** | **152** |
 
@@ -16,7 +17,8 @@ The `merge` dataset combines tracks from `ballroom`, `rwc_classical`, `rwc_genre
 | Source        | beat train | beat val | beat_phase_binary train | beat_phase_binary val |
 |---------------|-----------:|---------:|-------------------------:|-----------------------:|
 | ballroom | 559 | 139 | 419 | 104 |
-| jtd | 1191 | 103 | 1108 | 96 |
+| gtzan | 56 | 14 | 55 | 13 |
+| jtd | 1190 | 103 | 1107 | 96 |
 | rwc_classical | 49 | 12 | 32 | 7 |
 | rwc_genre | 82 | 20 | 68 | 16 |
 | rwc_jazz | 40 | 10 | 31 | 7 |
