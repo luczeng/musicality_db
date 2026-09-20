@@ -8,6 +8,7 @@ Both tables are one entry per track. `binary` (`splits/merge-binary`) only cover
 
 | version | beat train | beat val | binary train | binary val |
 |---------|-----------:|---------:|-------------:|-----------:|
+| v9.1.0 | **810** | **201** | **2018** | **318** |
 | v9.0.0 | **810** | **201** | **1949** | **301** |
 | v8.1.0 | **2124** | **335** | **1854** | **277** |
 | v8.0.0 | **2056** | **318** | **1792** | **262** |
@@ -19,7 +20,7 @@ Both tables are one entry per track. `binary` (`splits/merge-binary`) only cover
 | Source        | beat train | beat val | binary train | binary val |
 |---------------|-----------:|---------:|-------------:|-----------:|
 | ballroom | 559 | 139 | 419 | 104 |
-| gtzan | — | — | 189 | 46 |
+| gtzan | — | — | 258 | 63 |
 | jtd | — | — | 1106 | 96 |
 | rwc_classical | 49 | 12 | 32 | 7 |
 | rwc_genre | 82 | 20 | 68 | 16 |
